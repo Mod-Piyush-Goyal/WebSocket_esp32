@@ -1,0 +1,2 @@
+C:/Users/akgga/Desktop/esp test/test1/android/app/.cxx/Debug/u3x3k2c3/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/akgga/Desktop/esp test/test1/android/app/.cxx/Debug/u3x3k2c3/armeabi-v7a/CMakeFiles/rebuild_cache.dir
